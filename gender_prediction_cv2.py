@@ -7,7 +7,7 @@ import numpy as np
 GENDER_MODEL = 'weights/deploy_gender.prototxt'
 
 # The gender model pre-trained weights
-# https://drive.google.com/open?id=1AW3WduLk1haTVAxHOkVS_BEzel1WXQHP
+# https://drive.google.com/file/d/1W_moLzMlGiELyPxWiYQJ9KFaXroQ_NFQ/view
 GENDER_PROTO = 'weights/gender_net.caffemodel'
 
 MODEL_MEAN_VALUES = (78.4263377603, 87.7689143744, 114.895847746)
