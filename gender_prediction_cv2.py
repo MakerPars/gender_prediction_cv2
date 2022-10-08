@@ -103,3 +103,4 @@ def predict_gender(resim_path):
 
     display_img("Gender Estimator", frame)
     cv2.destroyAllWindows()
+predict_gender("sample_img.jpg")
